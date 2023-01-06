@@ -6,6 +6,6 @@ This is repository for torrent files, the latest version name will be recorded i
 
 1. create torrent
 2. upload to repository
-3. update `release.txt` file
+3. record the latest file name in `release.txt`
 
 ### download the latest torrent file
